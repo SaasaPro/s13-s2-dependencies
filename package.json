@@ -1,0 +1,17 @@
+{
+  "name": "sesion-2",
+  "version": "1.0.0",
+  "description": "Primer proyecto nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Cerna",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.7.2"
+  },
+  "dependencies": {
+    "react-dom": "^18.3.1"
+  }
+}
